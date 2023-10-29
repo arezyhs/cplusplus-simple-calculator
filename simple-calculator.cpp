@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
-
+/*
+    created by Akbar Setiyawan
+    arezyh.s
+*/
 // Functions here!
 // Addition
 double add(double num1, double num2) {
